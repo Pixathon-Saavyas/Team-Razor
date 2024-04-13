@@ -1,6 +1,7 @@
 {
-    "title": "Youtube Shorts Content Generation",
-    "description": "This integration helps the user get image created by Stable diffusion, Stroy based on the image and Audio file of the story",
-    "categories":    ["StableDiffusion", "Gemini", "Eleveblabs"], 
-    "deltav": true
+  "name": "Anime Article Generation",
+  "description": "A project that integrates Anilist API with a generative AI model to generate brief descriptions for the top 10 most popular anime or manga titles based on user input.",
+  "author": "Your Name",
+  "categories":    ["Gemini"], 
+  "deltav": true
 }
